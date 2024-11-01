@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\TareaPaginaWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBF1472-E7CA-4AEF-B2EB-AB3497AC1951}|TareaPaginaWeb\\TareaPaginaWeb.csproj|c:\\users\\aleca\\onedrive - universidad hispanoamericana\\iii cuatrimestre\\programacion ii\\tareapaginaweb\\tareapaginaweb\\modasport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1EBF1472-E7CA-4AEF-B2EB-AB3497AC1951}|TareaPaginaWeb\\TareaPaginaWeb.csproj|solutionrelative:tareapaginaweb\\modasport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBF1472-E7CA-4AEF-B2EB-AB3497AC1951}|TareaPaginaWeb\\TareaPaginaWeb.csproj|C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\TareaPaginaWeb\\tareapaginaweb\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1EBF1472-E7CA-4AEF-B2EB-AB3497AC1951}|TareaPaginaWeb\\TareaPaginaWeb.csproj|solutionrelative:tareapaginaweb\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModaSport.aspx",
+              "DocumentMoniker": "C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\TareaPaginaWeb\\TareaPaginaWeb\\ModaSport.aspx",
+              "RelativeDocumentMoniker": "TareaPaginaWeb\\ModaSport.aspx",
+              "ToolTip": "C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\TareaPaginaWeb\\TareaPaginaWeb\\ModaSport.aspx",
+              "RelativeToolTip": "TareaPaginaWeb\\ModaSport.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-30T22:06:05.862Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\TareaPaginaWeb\\TareaPaginaWeb\\main.css",
+              "RelativeDocumentMoniker": "TareaPaginaWeb\\main.css",
+              "ToolTip": "C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\TareaPaginaWeb\\TareaPaginaWeb\\main.css",
+              "RelativeToolTip": "TareaPaginaWeb\\main.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T22:07:37.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
